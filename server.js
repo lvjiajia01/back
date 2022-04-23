@@ -4,6 +4,7 @@ const users = [
     { id: 1, name: "zhangsan" },
     { id: 2, name: "lisi" },
     { id: 3, name: "wangwu" },
+    { id: 4, name: "zhaoliu" },
 ]
 
 const server = http.createServer((req, res) => {
